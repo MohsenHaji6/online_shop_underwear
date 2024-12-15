@@ -1,2 +1,3 @@
 something word in file
 line two of file
+something add in locally
