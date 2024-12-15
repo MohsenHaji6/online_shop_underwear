@@ -1,1 +1,2 @@
 this is one line of file
+somethig add to file b
